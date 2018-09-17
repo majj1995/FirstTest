@@ -1,2 +1,2 @@
 ﻿This is a exercise.
-Creating a new branch is fast & simple.
+Creating a new branch is fast and simple.
